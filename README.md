@@ -1,5 +1,6 @@
 # GlobalAI_Football_Players
-![image]([https://github.com/Yusufktkoglu/GlobalAI_Football_Players/blob/main/cr7.jpg])
+![image](https://raw.githubusercontent.com/Yusufktkoglu/GlobalAI_Football_Players/main/cr7.jpg)
+
 
 Pokémon veri seti birçok farklı Pokémon türünü; sağlık, saldırı, savunma, hız gibi özelliklerini, jenerasyon bilgilerini ve efsane olup olmadığı bilgilerini içeren bir veri setidir. Veri setine ulaşmak için aşağıda verilen Kaggle bağlantısını takip edebilir ve değişkenler hakkındaki bilgilere aşağıdan ulaşabilirsiniz.
 
