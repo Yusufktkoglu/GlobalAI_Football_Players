@@ -3,8 +3,9 @@
 
 Futbol oyuncuları birçok oyuncunun uzunluğu kilosu yaşı bitiriciliği gibi 50'ye yakın özelliği içeren bir veri setidir. Veri setinin linkini aşağıdan bulabilirsiniz.
 
-Football Players Data: https://www.kaggle.com/datasets/maso0dahmed/football-players-data
-Projenin Kaggle Linki: https://www.kaggle.com/code/yusufktkolu/globalai-fifa-players
+*Football Players Data: https://www.kaggle.com/datasets/maso0dahmed/football-players-data
+
+*Projenin Kaggle Linki: https://www.kaggle.com/code/yusufktkolu/globalai-fifa-players
 
 #### Değişkenler
 
